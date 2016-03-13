@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[webwalkthroughs]]></title>
         <description><![CDATA[webwalkthroughs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webwalkthroughs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:11:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 21:16:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webwalkthroughs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>You have a great place. You want people to see it and buy your stuff. Webwalkthroughs allows, anyone, anywhere to visit you in virtual reality. They can browse and buy, even when you're closed.</p>]]></description>
-            <link>undefinedtheres-more-than-one-way-to-show-off-your-place/index.html</link>
+            <link>https://thegrid.ai/webwalkthroughs/theres-more-than-one-way-to-show-off-your-place/index.html</link>
             <guid isPermaLink="false">935ed22d-ce69-479c-b8ed-4a64e7eac38f</guid>
-            <pubDate>Sun, 13 Mar 2016 21:11:34 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 21:14:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
