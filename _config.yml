@@ -1,6 +1,6 @@
 name: webwalkthroughs
 favicon: null
-layout_spectrum: 0.9000257703009993
+layout_spectrum: 0.51592
 typography_spectrum: 0.64151
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fecb00'
-    - '#4f2300'
-    - '#00adf1'
-    - '#737d00'
-    - '#fe4f18'
-  brandStrength: 0.8062288404908031
-  lightness: 0.49903228133916855
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#e2e7ed'
+    - '#576100'
+    - '#000000'
+    - '#cfb899'
+    - '#201d18'
+  brandStrength: 0.5625
+  lightness: 0.6875
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
